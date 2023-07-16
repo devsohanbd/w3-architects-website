@@ -1,9 +1,0 @@
-"emmet.includeLanguages": {
-    "html": "html",
-    "jsx": "html"
-},
-"emmet.preferences": {
-    "format.endWithNewline": true,
-    "markup.format.wrapAttributes": "auto"
-},
-"emmet.triggerExpansionOnTab": true
